@@ -1,2 +1,2 @@
-# lab1
-lab1 oop
+# oop.lab1
+Class Hierarchy
